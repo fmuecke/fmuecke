@@ -11,7 +11,10 @@ I'm fmuecke, a passionate software developer and agile enthusiast based in Bavar
 
 ## About Me
 
-I am currently employed as Agile Coach at baramundi software. I have a Master's degree equivalent in Computer Science ("Diplominformatiker"). I have been working in the tech industry for almost 20 years.
+I am currently employed as Agile Coach at baramundi software and have a Master's degree equivalent in Computer Science ("Diplominformatiker").
+My connection with tech started way back with my dad's old C64 and have been employed in the tech industry for almost 20 years.
+What fascinated me early on was being able to create things and not just run prigrams but influence the way computers work.
+
 
 ## GitHub Stats
 
